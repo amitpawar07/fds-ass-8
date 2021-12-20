@@ -1,0 +1,4 @@
+Rohit 90000 6743 Google
+Virat 80000 7649 TCS
+Dhoni 70000 7892 HCL
+Hardik 60000 5673 MCQ
